@@ -1,6 +1,6 @@
 # Module-2-Challenge
 
-[live link](git@github.com:ivetteramos/My-Portfolio-.git/)
+[live link](https://ivetteramos.github.io/My-Portfolio-/)
 
 ## Description 
 
@@ -8,6 +8,4 @@ I have created my very beginner portfolio from scratch. It includes links to my 
 
 ## Screenshot
 
-![]("C:\Users\jenra\OneDrive\Escritorio\challenges\Module-2-Challenge\Challenge-2\images\PortfolioScreenshot.png")
-   
-
+![Screenshot of my Portfolio](images/Portfolio.png)

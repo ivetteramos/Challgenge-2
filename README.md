@@ -8,4 +8,4 @@ I have created my very beginner portfolio from scratch. It includes links to my 
 
 ## Screenshot
 
-![Screenshot]("C:\Users\jenra\OneDrive\Escritorio\challenges\Module-2-Challenge\Challenge-2\images\Portfolio Screenshot.png")
+![Screenshot]("/images/Portfolio Screenshot.png")
